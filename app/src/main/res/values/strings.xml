@@ -6,4 +6,6 @@
     <string name="preço_do_combustivel">preço do combustivel</string>
     <string name="autonomia">Autonomia</string>
     <string name="kms_por_litro">KMS por litro</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="seu_gasto_total_ser_de">SEU GASTO TOTAL SERÁ DE:</string>
 </resources>

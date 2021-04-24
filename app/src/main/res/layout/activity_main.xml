@@ -58,7 +58,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="70dp"
-        android:text="SEU GASTO TOTAL SERÁ DE:"
+        android:text="@string/seu_gasto_total_ser_de"
         android:textSize="25dp" />
 
     <TextView
@@ -74,7 +74,7 @@
         android:layout_gravity="center"
         android:layout_width="150dp"
         android:layout_height="60dp"
-        android:text="CALCULAR"/>
+        android:text="@string/calcular"/>
 
 
 
